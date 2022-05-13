@@ -8,3 +8,13 @@ body{
 h1{
   color: purple;
 }
+
+.redClass{
+  background-color: black;
+  color: red;
+}
+
+.blueClass{
+  background-color: black;
+  color: blue;
+}

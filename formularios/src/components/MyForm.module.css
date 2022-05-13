@@ -1,0 +1,17 @@
+form {
+    display: block;
+    width: 500px;
+    margin: 0 auto;
+    text-align: left;
+   
+    
+}
+
+input,
+textarea,
+select {
+    
+    margin-top: 10px;
+    
+}
+
