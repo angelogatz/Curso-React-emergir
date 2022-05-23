@@ -1,0 +1,29 @@
+{
+  "Cars": [
+    {
+      "brand": "Peugeot",
+      "price": "700.001",
+      "id": 1
+    },
+    {
+      "brand": "Scannia",
+      "price": "40.001",
+      "id": 2
+    },
+    {
+      "brand": "Mercedes-benz",
+      "price": "2",
+      "id": 4
+    },
+    {
+      "brand": "Mercedes-benz",
+      "price": "12.002",
+      "id": 5
+    },
+    {
+      "brand": "Mercedes-benz",
+      "price": "12.002",
+      "id": 6
+    }
+  ]
+}

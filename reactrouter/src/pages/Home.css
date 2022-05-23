@@ -1,0 +1,79 @@
+.cars{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.cars li{
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    list-style: none;
+    margin: 10px 10px;
+    width: 25%;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.cars li:hover{
+    background-color: rgb(218, 241, 255);
+    transition: .3s;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.cards p{
+    border-radius: 5px;
+    padding: 5px;
+    flex-wrap: wrap;
+    font-size: 15px;
+    text-align: center;
+    margin: 5px 10px;
+    border: 1px solid #e1e1e1;
+    width: 25%;
+}
+
+i{
+    color: rgb(207, 173, 0);
+}
+
+.seach-form{
+    margin: 25px 10px;
+}
+
+input[type=text]{
+    width: 300px;
+    padding: 10px;
+    border: 1px solid gainsboro;
+}
+
+input[type=submit]{
+    padding: 10px;
+    border: 1px solid gainsboro;
+    cursor: pointer;
+    transition: .3s;
+}
+
+input[type=submit]:hover{
+    background-color: rgb(215, 215, 215);
+    transition: .3s;
+}
+
+button{
+    padding: 3px;
+    margin: 5px 10px;
+    border: 1px solid gainsboro;
+    cursor: pointer;
+    transition: .3s;
+}
+
+button:hover{
+    background-color: rgb(215, 215, 215);
+    transition: .3s;
+}
